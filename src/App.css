@@ -1,1 +1,4 @@
-font-family: "Open Sans Condensed";
+body {
+  font-family: "Open Sans Condensed";
+  padding: 20px 80px;
+}
