@@ -6,7 +6,7 @@ import HomePage from "./pages/homepage/homepage.component";
 import "./pages/homepage/homepage.styles.scss";
 import ShopPage from "./pages/shop/shop.component";
 import Header from "./components/header/header.component.jsx";
-import SignInAndSignUpPage from "./pages/sign-in-out/sign-in-out.component.jsx";
+import SignInAndSignUpPage from "./pages/sign-in-out/sign-in-up.component.jsx";
 import { auth, createUserProfileDocument } from "./firebase/firebase.utils";
 
 class App extends React.Component {
