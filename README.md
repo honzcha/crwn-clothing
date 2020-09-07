@@ -1,6 +1,7 @@
-## Lesson-26
+## Lesson-26-complete
 
-We are now adding styled-components to explore CSS-in-JS. We convert over our Homepage component, Header component and CustomButton component to use styled-components instead of scss.
+In this repository, all our components have been converted to styled-components!
+
 
 # How to fork and clone
 
